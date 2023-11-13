@@ -19,6 +19,21 @@ The project includes examples and a library for processing SVGs and HTML files t
 ### Prerequisites
 - Basic understanding of SVG and HTML
 
+
+### Operation
+
+To compose a recursive SVG, follow these steps:
+
+1. Download the [SVG Template](https://github.com/ViaMarisLabs/recursive_templates/blob/264b92930096e73a3b6f4da619b50e82b43758af/recursivetemplate.svg?short_path=b734824) by clicking on the link.
+
+2. Open the downloaded SVG file in a text editor.
+
+3. Replace the transaction hashes in the SVG file with the transaction hash of your PNG images.
+
+4. You can add multiple layers by repeating the process for each layer, where the first line represents the first layer and so on.
+
+5. Save the SVG and Ethscribe it.
+
 ## Contributing
 
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
